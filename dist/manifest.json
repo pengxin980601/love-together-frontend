@@ -1,0 +1,27 @@
+{
+  "name": "Love Together - 在一起",
+  "short_name": "在一起",
+  "description": "情侣关系管理APP - 纪念日、心愿清单，记录在一起的每一天",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f6ff",
+  "theme_color": "#5b9bd5",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["lifestyle", "social"]
+}
